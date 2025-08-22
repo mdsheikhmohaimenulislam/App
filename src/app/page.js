@@ -1,6 +1,7 @@
 
 
 import Hero from "./components/Hero";
+import Offer from "./components/Offer";
 
 import Product from "./components/Product";
 
@@ -12,6 +13,7 @@ export default function Home() {
 
       <Hero/>
       <Product/>
+      <Offer/>
     </div>
   );
 }

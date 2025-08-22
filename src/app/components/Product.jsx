@@ -159,6 +159,13 @@ const appPlant = [
     img: "https://i.ibb.co.com/q3WWJ4mb/view-palm-tree-species-with-green-foliage.jpg",
     price: 10.5,
   },
+    {
+    id: 21,
+    name: "Fiddle Leaf Fig",
+    description: "Tall indoor plant with large violin-shaped leaves.",
+    img: "https://i.ibb.co.com/35pgSbr4/indoor-plants-studio-1.jpg",
+    price: 45.0,
+  },
 ];
 
 const Product = () => {
