@@ -24,8 +24,8 @@ export default function Navbar() {
       <div className="flex items-center justify-between h-16">
         {/* Left - Brand */}
         <Link href="/" className="text-2xl font-extrabold tracking-wide">
-          <span className="bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-            UrbanKicks
+          <span className="bg-gradient-to-r from-green-500 to-green-700 bg-clip-text text-transparent">
+            Plant
           </span>
         </Link>
 

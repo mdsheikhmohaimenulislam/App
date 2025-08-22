@@ -10,20 +10,21 @@ import "swiper/css/navigation";
 export default function Hero() {
   const slides = [
     {
-      img: "/pexels-goumbik-292999.jpg",
-      title: "Step Into Style",
-      promo: "Discover the latest sneaker trends and elevate your streetwear look with our curated collection of stylish and comfortable shoes.",
-    },
-    {
-      img: "/pexels-pixabay-60619.jpg",
-      title: "Run With Comfort",
-      promo: "Experience unmatched comfort with every step. Our premium shoes combine innovative design with ergonomic support for your active lifestyle.",
-    },
-    {
-      img: "/pexels-pluyar-786003.jpg",
-      title: "Urban Vibes",
-      promo: "Make a statement with bold designs that fit your urban lifestyle. Shop the latest releases and set your style apart.",
-    },
+  img: "https://i.ibb.co.com/5h4DgmJX/beautiful-plant-illustration-1.jpg",
+  title: "Step Into Nature",
+  promo: "Discover the beauty of indoor plants and bring a touch of greenery into your home with our curated collection of fresh and vibrant plants.",
+},
+{
+  img: "https://i.ibb.co.com/Z6RHtDHF/beautiful-plant-illustration.jpg",
+  title: "Grow With Care",
+  promo: "Experience the joy of nurturing your own plants. Our premium selection combines natural beauty with easy care for your everyday lifestyle.",
+},
+{
+  img: "https://i.ibb.co.com/KjMHXJpF/front-view-potted-plant-wooden-surface.jpg",
+  title: "Green Vibes",
+  promo: "Transform your space with plants that radiate freshness. Shop the latest additions and let nature inspire your style.",
+}
+
   ];
 
   return (
